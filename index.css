@@ -1,0 +1,25 @@
+.textclass{
+	padding: 10px;
+}
+
+
+.img{
+	float: right;
+	padding: 30px;
+}
+.text{
+	padding-top: 17px;
+	padding-left: 15px;
+}
+.italic{
+	padding-left: 15px;
+}
+.list{
+	padding-top: 13px;
+}
+.ntext{
+	padding-left: 15px;
+}
+.anothertext{
+	padding-left: 494px;
+}
